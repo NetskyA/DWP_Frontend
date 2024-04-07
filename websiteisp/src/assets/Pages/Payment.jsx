@@ -95,11 +95,11 @@ export default function Payment() {
             </div>
             <div className="flex items-center w-full justify-center mb-28 bg-cover bg-center">
                 <div className="cover w-11/12 sm:w-3/4 items-center justify-center flex bg-white bg-opacity-75 rounded-lg">
-                    <Carouselcard/>
+                    <Carouselcard />
                 </div>
             </div>
 
-            <Footer/>
+            <Footer />
         </>
     )
 }
